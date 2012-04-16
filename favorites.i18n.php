@@ -1103,6 +1103,7 @@ $messages['sv'] = array(
 );
 
 /** Turkish (Türkçe)
+ * @author Bilalokms
  * @author Emperyan
  */
 $messages['tr'] = array(
@@ -1111,7 +1112,23 @@ $messages['tr'] = array(
 	'prefs-advancedfavoritelist' => 'Gelişmiş seçenekler',
 	'favoritelist' => 'Sık kullanılanlarım',
 	'myfavoritelist' => 'Sık kullanılanlarım',
+	'favoritelistfor' => "('''$1''' için)",
+	'nofavoritelist' => 'Sık kullanılanlarınızda hiçbir madde bulunmuyor.',
+	'favoritenologin' => 'Oturum açmadınız',
+	'removedfavorite' => 'Sık kullanılanlardan kaldırıldı',
 	'favoritelist-options' => 'Sık kullanılanlar seçenekleri',
+	'tooltip-ca-favorite' => 'Bu sayfayı sık kullanılanlara ekle',
+	'tooltip-ca-unfavorite' => 'Bu sayfayı sık kullanılanlardan çıkarın',
+	'tooltip-favorite' => 'Bu sayfayı sık kullanılanlara ekle',
+	'favoritelistall2' => 'hepsi',
+	'favoritelistedit-normal-title' => 'Sık kullanılanları düzenle',
+	'favoritelistedit-normal-legend' => 'Başlıkları sık kullanılanlardan kaldır',
+	'favoritelistedit-normal-submit' => 'Başlıkları kaldır',
+	'favoritelistedit-raw-title' => 'Ham sık kullanılanlar listesini düzenle',
+	'favoritelistedit-raw-legend' => 'Ham sık kullanılanlar listesini düzenle',
+	'favoritelistedit-raw-titles' => 'Başlıklar:',
+	'favoritelistedit-raw-submit' => 'Sık kullanılanlara ekle',
+	'favoritelistedit-raw-done' => 'Sık kullanılanlarınız güncellendi.',
 	'favoritelisttools-view' => 'Sık Kullanılanları Görüntüle',
 	'favoritelisttools-edit' => 'Sık kullanılanları gör ve düzenle',
 );
