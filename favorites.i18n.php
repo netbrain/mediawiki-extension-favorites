@@ -846,7 +846,7 @@ $messages['nl'] = array(
 	'favoritelistedit-normal-title' => 'Favorieten bewerken',
 	'favoritelistedit-normal-legend' => "Pagina's uit favorietenlijst verwijderen",
 	'favoritelistedit-normal-explain' => 'Hieronder worden de pagina’s in uw favorietenlijst weergegeven.
-Klik op het vierkantje ernaast en daarna op "{{int:Favoritelistedit-normal-submit}}" om een pagina te verwijderen.
+Klik op het vinkvakje ernaast en daarna op "{{int:Favoritelistedit-normal-submit}}" om een pagina te verwijderen.
 U kunt ook de [[Special:Favoritelist/raw|ruwe lijst bewerken]].',
 	'favoritelistedit-normal-submit' => "Pagina's verwijderen",
 	'favoritelistedit-normal-done' => 'Er {{PLURAL:$1|is 1 pagina|zijn $1 pagina’s}} verwijderd uit uw favorieten:',
