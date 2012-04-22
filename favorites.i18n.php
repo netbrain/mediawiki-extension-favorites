@@ -651,6 +651,31 @@ Tu pote etiam [[Special:Favoritelist/edit|usar le editor standard]].',
 	'favoritelisttools-raw' => 'Modificar lista de favorites in forma crude',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'favorites-desc' => 'お気に入り一覧を作成する',
+	'favoritethis' => 'このページをお気に入りに入れる',
+	'prefs-favoritelist' => 'お気に入り',
+	'prefs-favoritelist-token' => 'お気に入りのトークン：',
+	'prefs-advancedfavoritelist' => '詳細設定',
+	'favoritelist' => 'お気に入り',
+	'myfavoritelist' => 'お気に入り',
+	'favoritenologin' => 'ログインしていません',
+	'favorite' => 'お気に入り',
+	'favoritelist-options' => 'お気に入りのオプション',
+	'tooltip-ca-favorite' => 'このページをお気に入りに追加',
+	'tooltip-ca-unfavorite' => 'このページをお気に入りから除去',
+	'tooltip-favorite' => 'このページをお気に入りに追加',
+	'favoritelistall2' => 'すべて',
+	'favoritelistedit-normal-title' => 'お気に入りを編集',
+	'favoritelistedit-raw-submit' => 'お気に入りを更新',
+	'favoritelisttools-view' => 'お気に入りを表示',
+	'favoritelisttools-edit' => 'お気に入りを表示/編集',
+	'favoritelisttools-raw' => 'お気に入りをそのまま編集',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
