@@ -290,6 +290,14 @@ Sie können auch die [[Special:Favoritelist/edit|Standardseite]] zum Bearbeiten 
 	'favoritelistedit-raw-done' => 'Ihre Favoritenliste wurde aktualisiert.',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'favorite' => 'Weseney',
+	'favoritelistall2' => 'pêro',
+);
+
 /** Spanish (Español)
  * @author Armando-Martin
  * @author Dferg
