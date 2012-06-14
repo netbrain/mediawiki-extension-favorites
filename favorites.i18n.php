@@ -120,7 +120,7 @@ $messages['ar'] = array(
 	'favoritelisttools-view' => 'عرض التفضيلات',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
@@ -185,14 +185,14 @@ $messages['be-tarask'] = array(
 	'favoritelisttools-raw' => 'Рэдагаваць нефарматаваны сьпіс улюблёных',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
 	'favoritelistall2' => 'всички',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  * @author Y-M D
  */
@@ -298,7 +298,7 @@ $messages['diq'] = array(
 	'favoritelistall2' => 'pêro',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  * @author Dferg
  * @author Mor
@@ -357,7 +357,7 @@ También puede [[Special:Favoritelist/edit|usar el editor estándar]].',
 	'favoritelisttools-raw' => 'Editar lista de favoritos en bloque',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  * @author Hashar
  */
@@ -415,7 +415,7 @@ Vous pouvez aussi [[Special:Favoritelist/edit|utiliser l\'éditeur standard]].',
 	'favoritelisttools-raw' => 'Modifier la liste brute des favoris',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -602,7 +602,7 @@ Móžeš tež [[Special:Favoritelist/edit|stndardny editor wužiwać]].',
 	'favoritelisttools-raw' => 'Surowe fawority wobdźěłać',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -750,7 +750,7 @@ Dir kënnt och [[Special:Favoritelist/edit|de Standard Editeur benotzen]].",
 	'favoritelisttools-raw' => 'Lëscht vun de Favoriten net-formatéiert änneren',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -915,7 +915,7 @@ $messages['pdc'] = array(
 	'favoritelistall2' => 'all',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  * @author Woytecr
  */
@@ -982,7 +982,7 @@ $messages['ps'] = array(
 	'favoritelistedit-raw-titles' => 'سرليکونه:',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -1039,7 +1039,7 @@ Também pode [[Special:Favoritelist/edit|editar a lista da maneira convencional]
 	'favoritelisttools-raw' => 'Editar a lista de preferidas em forma de texto',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Alexandr Efremov
  * @author Eleferen
  * @author Express2000
@@ -1097,7 +1097,7 @@ $messages['ru'] = array(
 	'favoritelisttools-raw' => 'Редактирование текста списка наблюдения',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Diupwijk
  * @author WikiPhoenix
  */
@@ -1166,7 +1166,7 @@ $messages['tr'] = array(
 	'favoritelisttools-edit' => 'Sık kullanılanları gör ve düzenle',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Linforest
  */
 $messages['zh-hans'] = array(
