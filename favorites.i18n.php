@@ -89,11 +89,13 @@ You can also [[Special:Favoritelist/edit|use the standard editor]].',
 );
 
 /** Message documentation (Message documentation)
+ * @author Beta16
  * @author EugeneZelenko
  * @author Hamilton Abreu
  * @author Kghbln
  */
 $messages['qqq'] = array(
+	'favorites-desc' => '{{desc}}',
 	'prefs-favoritelist' => '{{Identical|Favorite}}',
 	'prefs-favoritelist-token' => "This message is basically the same as {{msg-mw|Prefs-watchlist-token}}. A token is a piece of information in this context that is used to prove one's identity electronically[http://en.wikipedia.org/wiki/Security_token]. Have a look at the Watchlist tab in [[Special:Preferences]]. There is a token there for accessing your watchlist RSS feed without having to log in (you are using your token to identify yourself).",
 	'favoritelistanontext' => '$1 is substituted by {{msg|loginreqlink}}',
@@ -657,6 +659,58 @@ Tu pote etiam [[Special:Favoritelist/edit|usar le editor standard]].',
 	'favoritelisttools-view' => 'Vider favorites',
 	'favoritelisttools-edit' => 'Vider e modificar favorites',
 	'favoritelisttools-raw' => 'Modificar lista de favorites in forma crude',
+);
+
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'favorites-desc' => 'Crea una lista di preferiti',
+	'favoritethis' => 'Aggiungi questa pagina ai preferiti',
+	'prefs-favoritelist' => 'Preferiti',
+	'prefs-favoritelist-token' => 'Token preferiti:',
+	'prefs-advancedfavoritelist' => 'Opzioni avanzate',
+	'favoritelist' => 'I miei preferiti',
+	'myfavoritelist' => 'I miei preferiti',
+	'favoritelistfor' => "(per '''$1''')",
+	'nofavoritelist' => 'La lista dei preferiti è vuota.',
+	'favoritelistanontext' => "Per visualizzare e modificare l'elenco dei preferiti è necessario $1.",
+	'favoritenologin' => 'Accesso non effettuato',
+	'favoritenologintext' => "Per modificare la lista dei preferiti è necessario prima eseguire l'[[Special:UserLogin|accesso al sito]].",
+	'addedfavorite' => 'Aggiunto ai preferiti',
+	'addedfavoritetext' => 'La pagina "[[:$1]]" è stata aggiunta alla [[Special:Favoritelist|lista dei preferiti]].',
+	'removedfavorite' => 'Rimossa dai preferiti',
+	'removedfavoritetext' => 'La pagina "[[:$1]]" è stata eliminata dalla [[Special:Favoritelist|lista dei preferiti]].',
+	'favorite' => 'Preferito',
+	'favoritethispage' => 'Aggiungi questa pagina ai preferiti',
+	'favoritelist-options' => 'Opzioni preferiti',
+	'tooltip-pt-favoritelist' => 'La lista delle pagine che stai tenendo sotto osservazione',
+	'tooltip-ca-favorite' => 'Aggiungi questa pagina ai tuoi preferiti',
+	'tooltip-ca-unfavorite' => 'Rimuovi questa pagina dai preferiti',
+	'tooltip-favorite' => 'Aggiungi questa pagina ai tuoi preferiti',
+	'favoritelistall2' => 'tutte',
+	'favoritelistedit-numitems' => 'I tuoi preferiti contengono {{PLURAL:$1|1 titolo|$1 titoli}}.',
+	'favoritelistedit-noitems' => 'I tuoi preferiti non contengono titoli.',
+	'favoritelistedit-normal-title' => 'Modifica preferiti',
+	'favoritelistedit-normal-legend' => 'Elimina titoli dai preferiti',
+	'favoritelistedit-normal-explain' => 'Di seguito sono elencate tutte le pagine preferite.
+Per rimuovere una o più pagine dalla lista, selezionare le caselle relative e fare clic sul pulsante "{{int:Favoritelistedit-normal-submit}}" in fondo all\'elenco.
+Si noti che è anche possibile [[Special:Favoritelist/raw|modificare la lista in formato testuale]].',
+	'favoritelistedit-normal-submit' => 'Rimuovi i titoli',
+	'favoritelistedit-normal-done' => 'Dalla lista dei preferiti {{PLURAL:$1|è stata eliminata una pagina|sono state eliminate $1 pagine}}:',
+	'favoritelistedit-raw-title' => 'Modifica dei preferiti in forma testuale',
+	'favoritelistedit-raw-legend' => 'Modifica dei preferiti in forma testuale',
+	'favoritelistedit-raw-explain' => 'Di seguito sono elencate tutte le pagine preferite. Per modificare la lista aggiungere o rimuovere i rispettivi titoli, uno per riga.
+Una volta terminato, fare clic su "{{int:Favoritelistedit-raw-submit}}" in fondo all\'elenco.
+Si noti che è anche possibile [[Special:Favoritelist/edit|modificare la lista con l\'interfaccia standard]].',
+	'favoritelistedit-raw-titles' => 'Titoli:',
+	'favoritelistedit-raw-submit' => 'Aggiorna preferiti',
+	'favoritelistedit-raw-done' => 'I tuoi preferiti sono stati aggiornati.',
+	'favoritelistedit-raw-added' => '{{PLURAL:$1|È stata aggiunta una pagina|Sono state aggiunte $1 pagine}}:',
+	'favoritelistedit-raw-removed' => '{{PLURAL:$1|È stata eliminata una pagina|Sono state eliminate $1 pagine}}:',
+	'favoritelisttools-view' => 'Vedi preferiti',
+	'favoritelisttools-edit' => 'Vedi e modifica i preferiti',
+	'favoritelisttools-raw' => 'Modifica la lista in formato testo',
 );
 
 /** Japanese (日本語)
