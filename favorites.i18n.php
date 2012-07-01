@@ -129,7 +129,7 @@ $messages['az'] = array(
 	'favoritelistall2' => 'bütün',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -467,7 +467,7 @@ $messages['frp'] = array(
 	'favoritelisttools-raw' => 'Changiér los favoris en fôrma bruta',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -548,7 +548,7 @@ $messages['he'] = array(
 	'favoritelisttools-view' => 'הצגת רשימת המועדפים',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
