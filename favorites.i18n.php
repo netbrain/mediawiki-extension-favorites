@@ -804,6 +804,25 @@ Dir kënnt och [[Special:Favoritelist/edit|de Standard Editeur benotzen]].",
 	'favoritelisttools-raw' => 'Lëscht vun de Favoriten net-formatéiert änneren',
 );
 
+/** Lithuanian (lietuvių)
+ * @author Eitvys200
+ */
+$messages['lt'] = array(
+	'favoritethis' => 'Pridėti puslapį į mėgstamus',
+	'prefs-favoritelist' => 'Mėgstamiausi',
+	'prefs-advancedfavoritelist' => 'Papildomi nustatymai',
+	'favoritelist' => 'Mano mėgstamiausi',
+	'myfavoritelist' => 'Mano mėgstamiausi',
+	'favoritelistfor' => "(dėl '''$1''')",
+	'addedfavorite' => 'Pridėtas į mėgstamiausius',
+	'removedfavorite' => 'Pašalintas iš mėgstamiausių',
+	'favorite' => 'Mėgstamas',
+	'favoritethispage' => 'Pridėti puslapį į mėgstamus',
+	'favoritelist-options' => 'Mėgstamiausių nustatymai',
+	'favoritelistall2' => 'visi',
+	'favoritelistedit-normal-title' => 'Redaguoti mėgstamiausius',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
