@@ -296,6 +296,8 @@ Sie können auch die [[Special:Favoritelist/edit|Standardseite]] zum Bearbeiten 
  * @author Erdemaslancan
  */
 $messages['diq'] = array(
+	'favoritelist' => 'Wesineye mı',
+	'myfavoritelist' => 'Wesineye mı',
 	'favorite' => 'Weseney',
 	'favoritelistall2' => 'pêro',
 );
@@ -1206,6 +1208,15 @@ $messages['sv'] = array(
 	'favoritelistedit-raw-removed' => '{{PLURAL:$1|1 sida|$1 sidor}} togs bort:',
 	'favoritelisttools-view' => 'Visa favoriter',
 	'favoritelisttools-edit' => 'Visa och redigera favoriter',
+);
+
+/** толышә зывон (толышә зывон)
+ * @author Erdemaslancan
+ */
+$messages['tly'] = array(
+	'favoritelist' => 'Чымы выжнијә',
+	'myfavoritelist' => 'Чымы выжнијә',
+	'favorite' => 'Выжнијә',
 );
 
 /** Turkish (Türkçe)
