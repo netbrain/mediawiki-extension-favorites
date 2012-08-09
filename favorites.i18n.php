@@ -207,6 +207,15 @@ $messages['br'] = array(
 	'favoritelistedit-raw-titles' => 'Titloù :',
 );
 
+/** Czech (česky)
+ * @author Chmee2
+ */
+$messages['cs'] = array(
+	'addedfavorite' => 'Přidat do oblíbených',
+	'favorite' => 'Oblíbené',
+	'favoritelistall2' => 'vše',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author Umherirrender
@@ -359,6 +368,17 @@ También puede [[Special:Favoritelist/edit|usar el editor estándar]].',
 	'favoritelisttools-view' => 'Ver lista de Favoritos',
 	'favoritelisttools-edit' => 'Ver y editar la lista de Favoritos',
 	'favoritelisttools-raw' => 'Editar lista de favoritos en bloque',
+);
+
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'favorite' => 'مورد علاقه کردن',
+	'unfavorite' => 'از حالت مورد علاقه در آوردن',
+	'unfavoritethispage' => 'توقف مورد علاقه کردن',
+	'favoritelistall2' => 'همه',
+	'favoritelistedit-raw-titles' => 'عنوان‌ها:',
 );
 
 /** French (français)
@@ -1114,6 +1134,14 @@ Também pode [[Special:Favoritelist/edit|editar a lista da maneira convencional]
 	'favoritelisttools-raw' => 'Editar a lista de preferidas em forma de texto',
 );
 
+/** Romanian (română)
+ * @author Stelistcristi
+ */
+$messages['ro'] = array(
+	'favoritethispage' => 'Adaugă pagina la favorite',
+	'favoritelistedit-raw-titles' => 'Titluri:',
+);
+
 /** Russian (русский)
  * @author Alexandr Efremov
  * @author Eleferen
@@ -1170,6 +1198,14 @@ $messages['ru'] = array(
 	'favoritelisttools-view' => 'Просмотр списка наблюдения',
 	'favoritelisttools-edit' => 'Посмотреть и изменить список наблюдения',
 	'favoritelisttools-raw' => 'Редактирование текста списка наблюдения',
+);
+
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'favoritenologin' => 'ප්‍රවිෂ්ට වී නොමැත',
+	'favoritelistall2' => 'සියල්ල',
 );
 
 /** Swedish (svenska)
