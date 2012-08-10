@@ -760,6 +760,22 @@ $messages['ja'] = array(
 	'favoritelisttools-raw' => 'お気に入りをそのまま編集',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'prefs-favoritelist' => 'რჩეულები',
+	'favoritelist' => 'ჩემი რჩეულები',
+	'myfavoritelist' => 'ჩემი რჩეულები',
+	'favoritelistfor' => "('''$1'''-თვის)",
+	'favorite' => 'რჩეული',
+	'favoritelistall2' => 'ყველა',
+	'favoritelistedit-normal-title' => 'რჩეულების რედაქტირება',
+	'favoritelistedit-raw-titles' => 'სათაურები:',
+	'favoritelistedit-raw-submit' => 'რჩეულების განახლება',
+	'favoritelisttools-view' => 'რჩეულების ხილვა',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
