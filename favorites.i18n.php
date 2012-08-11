@@ -1262,6 +1262,63 @@ $messages['sv'] = array(
 	'favoritelisttools-edit' => 'Visa och redigera favoriter',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'favorites-desc' => 'Lumilikha ng isang listahan ng mga paborito',
+	'favoritethis' => 'Paborituhin ang pahinang ito',
+	'prefs-favoritelist' => 'Mga paborito',
+	'prefs-favoritelist-token' => 'Kahalip ng mga paborito:',
+	'prefs-advancedfavoritelist' => 'Masulong na mga mapagpipilian',
+	'favoritelist' => 'Mga paborito ko',
+	'myfavoritelist' => 'Mga paborito ko',
+	'favoritelistfor' => "(para sa '''$1''')",
+	'nofavoritelist' => 'Wala kang mga bagay-bagay sa loob ng mga paborito mo.',
+	'favoritelistanontext' => 'Paki $1 upang tumingin o magbago ng mga bagay na nasa loob ng mga paborito mo.',
+	'favoritenologin' => 'Hindi nakalagda',
+	'favoritenologintext' => 'Dapat na [[Special:UserLogin|nakalagda]] ka upang mabago ang mga paborito mo.',
+	'addedfavorite' => 'Idinagdag sa mga paborito',
+	'addedfavoritetext' => 'Ang pahinang "[[:$1]]" ay naidagdag na sa iyong [[Special:Favoritelist|mga paborito]].',
+	'removedfavorite' => 'Tinanggal magmula sa mga paborito',
+	'removedfavoritetext' => 'Ang pahinang "[[:$1]]" ay tinanggal na mula sa [[Special:Favoritelist|mga paborito mo]].',
+	'favorite' => 'Paborito',
+	'favoritethispage' => 'Paborituhin ang pahinang ito',
+	'unfavorite' => 'Huwag gawing paborito',
+	'unfavoritethispage' => 'Huminto sa pagpapaborito',
+	'favoritelist-options' => 'Mga mapagpipilian ng mga paborito',
+	'favoriteing' => 'Pinapaborito...',
+	'unfavoriteing' => 'Hindi na pinapaborito...',
+	'tooltip-pt-favoritelist' => 'Ang talaan ng mga pahinang minamatyagan mo para sa pagbabago',
+	'tooltip-ca-favorite' => 'Idagdag ang pahinang ito sa mga paborito mo',
+	'tooltip-ca-unfavorite' => 'Alisin ang pahinang ito mula sa mga paborito mo',
+	'tooltip-favorite' => 'Idagdag ang pahinang ito sa mga paborito mo',
+	'favoritelistall2' => 'lahat',
+	'favoritelistedit-numitems' => 'Ang mga paborito mo ay naglalaman ng {{PLURAL:$1|1 pamagat|$1 mga pamagat}}.',
+	'favoritelistedit-noitems' => 'Hindi naglalaman ng mga pamagat ang mga paborito mo.',
+	'favoritelistedit-normal-title' => 'Baguhin ang mga paborito',
+	'favoritelistedit-normal-legend' => 'Tanggalin ang mga pamagat mula sa mga paborito',
+	'favoritelistedit-normal-explain' => 'Ipinapakita sa ibaba ang mga pamagat na nasa loob ng mga paborito mo.
+Upang matanggal ang isang pamagat, lagyan ng tsek ang kahong katabi nito, at pindutin ang "{{int:Favoritelistedit-normal-submit}}".
+Maaari mo ring [[Special:Favoritelist/raw|baguhin ang hilaw na listahan]].',
+	'favoritelistedit-normal-submit' => 'Tanggalin ang mga pamagat',
+	'favoritelistedit-normal-done' => 'Tinatanggal mula sa mga paborito mo ang {{PLURAL:$1|1 pamagat|$1 mga pamagat}}:',
+	'favoritelistedit-raw-title' => 'Baguhin ang hilaw na listahan ng mga paborito',
+	'favoritelistedit-raw-legend' => 'Baguhin ang hilaw na listahan ng mga paborito',
+	'favoritelistedit-raw-explain' => 'Ipinapakita sa ibaba ang mga pamagat na nasa loob ng mga paborito mo, at maaaring baguhin sa pamamagitan ng pagdaragdag at pagtatanggal mula sa talaan;
+isang pamagat sa bawat guhit.
+Kapag natapos na, pindutin ang "{{int:Favoritelistedit-raw-submit}}".
+Maaari mo ring [[Special:Favoritelist/edit|gamitin ang saligang pampatnugot]].',
+	'favoritelistedit-raw-titles' => 'Mga pamagat:',
+	'favoritelistedit-raw-submit' => 'Isapanahon ang mga paborito',
+	'favoritelistedit-raw-done' => 'Naisapanahon na ang mga paborito mo.',
+	'favoritelistedit-raw-added' => 'Naidagdag ang {{PLURAL:$1|1 pamagat|$1 mga pamagat}}:',
+	'favoritelistedit-raw-removed' => 'Natanggal ang {{PLURAL:$1|1 pamagat|$1 mga pamagat}}:',
+	'favoritelisttools-view' => 'Tingnan ang mga Paborito',
+	'favoritelisttools-edit' => 'Tingnan at baguhin ang mga paborito',
+	'favoritelisttools-raw' => 'Baguhin ang hilaw na mga paborito',
+);
+
 /** толышә зывон (толышә зывон)
  * @author Erdemaslancan
  */
