@@ -1088,9 +1088,31 @@ Możesz również [[Special:Favoritelist/edit|użyć standardowego edytora]].',
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
+	'favoritethis' => 'دا مخ خواپوری کول',
+	'prefs-favoritelist' => 'خواپوري',
+	'prefs-advancedfavoritelist' => 'پرمختللې خوښنې',
+	'favoritelist' => 'زما خواپوري',
+	'myfavoritelist' => 'زما خواپوري',
+	'favoritenologin' => 'غونډال کې نه ياست ننوتي',
+	'addedfavorite' => 'خواپورو کې ورګډ شول',
+	'addedfavoritetext' => 'د "[[:$1]]" مخ ستاسې [[Special:Favoritelist|خواپورو]] کې ورګډ شو.',
+	'removedfavorite' => 'له خواپورو لرې کول',
+	'removedfavoritetext' => 'د "[[:$1]]" مخ ستاسې [[Special:Favoritelist|خواپورو]] نه لرې شو.',
+	'favorite' => 'خواپوری',
+	'favoritethispage' => 'دا مخ خواپوری کول',
+	'unfavorite' => 'ناخواپوری',
+	'unfavoritethispage' => 'خواپورې کېدنه درول',
+	'favoritelist-options' => 'خواپورې خوښنې',
+	'favoriteing' => 'خواپورې کېدنې کې دی...',
+	'unfavoriteing' => 'ناخواپورې کېدنې کې دی...',
+	'tooltip-ca-favorite' => 'دا مخ خپلو خواپورو کې ورګډول',
+	'tooltip-favorite' => 'دا مخ خپلو خواپورو کې ورګډول',
 	'favoritelistall2' => 'ټول',
 	'favoritelistedit-normal-title' => 'خواپورې سمول',
+	'favoritelistedit-normal-submit' => 'سرليکونه لرې کول',
 	'favoritelistedit-raw-titles' => 'سرليکونه:',
+	'favoritelistedit-raw-submit' => 'خواپوري اوسمهالول',
+	'favoritelisttools-view' => 'خواپوري کتل',
 );
 
 /** Portuguese (português)
@@ -1260,6 +1282,14 @@ $messages['sv'] = array(
 	'favoritelistedit-raw-removed' => '{{PLURAL:$1|1 sida|$1 sidor}} togs bort:',
 	'favoritelisttools-view' => 'Visa favoriter',
 	'favoritelisttools-edit' => 'Visa och redigera favoriter',
+);
+
+/** Telugu (తెలుగు)
+ * @author Veeven
+ */
+$messages['te'] = array(
+	'favoritelistall2' => 'అన్నీ',
+	'favoritelistedit-raw-titles' => 'శీర్షికలు:',
 );
 
 /** Tagalog (Tagalog)
