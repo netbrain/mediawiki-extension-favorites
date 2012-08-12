@@ -1242,8 +1242,23 @@ $messages['ru'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'favoritethis' => 'මෙම පිටුව ප්‍රියතම කරන්න',
+	'prefs-favoritelist' => 'ප්‍රියතමයන්',
+	'prefs-advancedfavoritelist' => 'ප්‍රගත විකල්පයන්',
+	'favoritelist' => 'මගේ ප්‍රියතමයන්',
+	'myfavoritelist' => 'මගේ ප්‍රියතමයන්',
+	'favoritelistfor' => "(සඳහා '''$1''')",
 	'favoritenologin' => 'ප්‍රවිෂ්ට වී නොමැත',
+	'addedfavorite' => 'ප්‍රියතමයට එක් කරන්න',
+	'favorite' => 'ප්‍රියතමය',
+	'favoritethispage' => 'මෙම පිටුව ප්‍රියතම කරන්න',
+	'favoritelist-options' => 'ප්‍රියතම විකල්පයන්',
 	'favoritelistall2' => 'සියල්ල',
+	'favoritelistedit-normal-title' => 'ප්‍රියතමයන් සංස්කරණය කරන්න',
+	'favoritelistedit-normal-submit' => 'ශීර්ෂයන් ඉවත් කරන්න',
+	'favoritelistedit-raw-titles' => 'ශීර්ෂයන්:',
+	'favoritelistedit-raw-submit' => 'ප්‍රියතමයන් යාවත්කාලීනය කරන්න',
+	'favoritelisttools-view' => 'ප්‍රියතමයන් නරඹන්න',
 );
 
 /** Swedish (svenska)
@@ -1282,6 +1297,17 @@ $messages['sv'] = array(
 	'favoritelistedit-raw-removed' => '{{PLURAL:$1|1 sida|$1 sidor}} togs bort:',
 	'favoritelisttools-view' => 'Visa favoriter',
 	'favoritelisttools-edit' => 'Visa och redigera favoriter',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'favoritelist' => 'எனது விருப்பங்கள்',
+	'myfavoritelist' => 'எனது விருப்பங்கள்',
+	'favoritenologin' => 'புகுபதிகை செய்யப்படவில்லை',
+	'favoritelistedit-normal-submit' => 'தலைப்புகளை நீக்கு',
+	'favoritelistedit-raw-titles' => 'தலைப்புகள்:',
 );
 
 /** Telugu (తెలుగు)
