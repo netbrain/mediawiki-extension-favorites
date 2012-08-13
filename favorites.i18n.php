@@ -370,6 +370,28 @@ También puede [[Special:Favoritelist/edit|usar el editor estándar]].',
 	'favoritelisttools-raw' => 'Editar lista de favoritos en bloque',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'prefs-favoritelist' => 'Lemmikud',
+	'favoritelist' => 'Minu lemmikud',
+	'myfavoritelist' => 'Minu lemmikud',
+	'favoritenologin' => 'Ei ole sisse logitud',
+	'addedfavorite' => 'Lisatud lemmikutesse',
+	'removedfavorite' => 'Lemmikute hulgast eemaldatud',
+	'favorite' => 'Lemmik',
+	'favoritethispage' => 'Märgi see leht lemmikute hulka',
+	'unfavorite' => 'Eemalda leht lemmikute hulgast',
+	'favoritelist-options' => 'Lemmikute suvandid',
+	'favoriteing' => 'Lisan lemmikute hulka...',
+	'unfavoriteing' => 'Kustutan lemmikute hulgast...',
+	'tooltip-ca-favorite' => 'Lisa see lehekülg oma lemmikutesse',
+	'tooltip-ca-unfavorite' => 'Eemalda see lehekülg oma lemmikutest',
+	'tooltip-favorite' => 'Lisa see lehekülg oma lemmikutesse',
+	'favoritelistall2' => 'kõik',
+);
+
 /** Persian (فارسی)
  * @author Mjbmr
  */
@@ -740,20 +762,30 @@ Si noti che è anche possibile [[Special:Favoritelist/edit|modificare la lista c
  */
 $messages['ja'] = array(
 	'favorites-desc' => 'お気に入り一覧を作成する',
-	'favoritethis' => 'このページをお気に入りに入れる',
+	'favoritethis' => 'このページをお気に入りに追加',
 	'prefs-favoritelist' => 'お気に入り',
 	'prefs-favoritelist-token' => 'お気に入りのトークン：',
 	'prefs-advancedfavoritelist' => '詳細設定',
 	'favoritelist' => 'お気に入り',
 	'myfavoritelist' => 'お気に入り',
 	'favoritenologin' => 'ログインしていません',
+	'favoritenologintext' => '自分のお気に入りを変更するには[[Special:UserLogin|ログイン]]する必要があります。',
+	'addedfavorite' => 'お気に入りに追加しました',
+	'removedfavorite' => 'お気に入りから除去しました',
 	'favorite' => 'お気に入り',
+	'favoritethispage' => 'このページをお気に入りに追加',
+	'unfavorite' => 'お気に入り解除',
+	'unfavoritethispage' => 'お気に入りを解除',
 	'favoritelist-options' => 'お気に入りのオプション',
+	'favoriteing' => 'お気に入りに追加しています...',
+	'unfavoriteing' => 'お気に入りを解除しています...',
 	'tooltip-ca-favorite' => 'このページをお気に入りに追加',
 	'tooltip-ca-unfavorite' => 'このページをお気に入りから除去',
 	'tooltip-favorite' => 'このページをお気に入りに追加',
 	'favoritelistall2' => 'すべて',
 	'favoritelistedit-normal-title' => 'お気に入りを編集',
+	'favoritelistedit-raw-title' => 'お気に入り一覧をそのまま編集',
+	'favoritelistedit-raw-legend' => 'お気に入り一覧をそのまま編集',
 	'favoritelistedit-raw-submit' => 'お気に入りを更新',
 	'favoritelisttools-view' => 'お気に入りを表示',
 	'favoritelisttools-edit' => 'お気に入りを表示/編集',
@@ -1293,6 +1325,7 @@ $messages['sv'] = array(
 	'favoritelistedit-normal-done' => '{{PLURAL:$1|1 sida|$1 sidor}} togs bort från dina favoriter:',
 	'favoritelistedit-raw-titles' => 'Sidor:',
 	'favoritelistedit-raw-submit' => 'Uppdatera favoriter',
+	'favoritelistedit-raw-done' => 'Dina favoriter har uppdaterats.',
 	'favoritelistedit-raw-added' => '{{PLURAL:$1|1 sida|$1 sidor}} lades till:',
 	'favoritelistedit-raw-removed' => '{{PLURAL:$1|1 sida|$1 sidor}} togs bort:',
 	'favoritelisttools-view' => 'Visa favoriter',
