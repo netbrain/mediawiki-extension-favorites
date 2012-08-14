@@ -1212,6 +1212,17 @@ $messages['ro'] = array(
 	'favoritelistedit-raw-titles' => 'Titluri:',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'prefs-favoritelist' => 'Preferite',
+	'favoritenologin' => 'Non ge sì collegate',
+	'favorite' => 'Preferite',
+	'favoritelistall2' => 'tutte',
+	'favoritelistedit-normal-submit' => 'Live le titole',
+);
+
 /** Russian (русский)
  * @author Alexandr Efremov
  * @author Eleferen
@@ -1334,13 +1345,20 @@ $messages['sv'] = array(
 
 /** Tamil (தமிழ்)
  * @author Karthi.dr
+ * @author மதனாஹரன்
  */
 $messages['ta'] = array(
+	'prefs-favoritelist' => 'விருப்பங்கள்',
+	'prefs-advancedfavoritelist' => 'மேம்பட்ட தெரிவுகள்',
 	'favoritelist' => 'எனது விருப்பங்கள்',
 	'myfavoritelist' => 'எனது விருப்பங்கள்',
 	'favoritenologin' => 'புகுபதிகை செய்யப்படவில்லை',
 	'favoritelistedit-normal-submit' => 'தலைப்புகளை நீக்கு',
 	'favoritelistedit-raw-titles' => 'தலைப்புகள்:',
+	'favoritelistedit-raw-done' => 'உங்கள் விருப்பங்கள் இற்றைப்படுத்தப்பட்டன.',
+	'favoritelisttools-view' => 'விருப்பங்களைப் பார்க்கவும்',
+	'favoritelisttools-edit' => 'விருப்பங்களைப் பார்த்துத் தொகுக்கவும்',
+	'favoritelisttools-raw' => 'மூல விருப்பங்களைத் தொகுக்கவும்',
 );
 
 /** Telugu (తెలుగు)
