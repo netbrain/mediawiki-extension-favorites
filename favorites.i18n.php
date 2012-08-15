@@ -511,6 +511,14 @@ $messages['frp'] = array(
 	'favoritelisttools-raw' => 'Changiér los favoris en fôrma bruta',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'favoritelistall2' => 'iad uile',
+	'favoritelistedit-raw-titles' => 'Teideal:',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
