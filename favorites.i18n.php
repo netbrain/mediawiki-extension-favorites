@@ -392,6 +392,13 @@ $messages['et'] = array(
 	'favoritelistall2' => 'kõik',
 );
 
+/** Basque (euskara)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['eu'] = array(
+	'favoritelistedit-raw-titles' => 'Izenburuak:',
+);
+
 /** Persian (فارسی)
  * @author Mjbmr
  */
@@ -401,6 +408,24 @@ $messages['fa'] = array(
 	'unfavoritethispage' => 'توقف مورد علاقه کردن',
 	'favoritelistall2' => 'همه',
 	'favoritelistedit-raw-titles' => 'عنوان‌ها:',
+);
+
+/** Finnish (suomi)
+ * @author Beluga
+ */
+$messages['fi'] = array(
+	'favoritethis' => 'Lisää tämä sivu suosikkeihin',
+	'prefs-favoritelist' => 'Suosikit',
+	'favoritelist' => 'Omat suosikkini',
+	'myfavoritelist' => 'Omat suosikkini',
+	'favoritenologin' => 'Et ole kirjautunut sisään',
+	'favorite' => 'Lisää suosikkeihisi',
+	'favoritethispage' => 'Lisää tämä sivu suosikkeihisi',
+	'unfavorite' => 'Poista suosikeista',
+	'tooltip-ca-favorite' => 'Lisää tämä sivu suosikkeihisi',
+	'favoritelistedit-normal-title' => 'Muokkaa suosikkejasi',
+	'favoritelistedit-raw-submit' => 'Päivitä suosikkisi',
+	'favoritelistedit-raw-done' => 'Suosikkisi on päivitetty.',
 );
 
 /** French (français)
@@ -1472,6 +1497,21 @@ $messages['tr'] = array(
 	'favoritelistedit-raw-done' => 'Sık kullanılanlarınız güncellendi.',
 	'favoritelisttools-view' => 'Sık Kullanılanları Görüntüle',
 	'favoritelisttools-edit' => 'Sık kullanılanları gör ve düzenle',
+);
+
+/** Vietnamese (Tiếng Việt)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['vi'] = array(
+	'favoritelistall2' => 'tất cả',
+);
+
+/** Yiddish (ייִדיש)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['yi'] = array(
+	'favoritelistall2' => 'אלע',
+	'favoritelistedit-raw-titles' => 'טיטלען:',
 );
 
 /** Simplified Chinese (‪中文（简体）‬)
