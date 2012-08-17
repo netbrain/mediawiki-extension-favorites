@@ -423,7 +423,10 @@ $messages['fi'] = array(
 	'favoritethispage' => 'Lisää tämä sivu suosikkeihisi',
 	'unfavorite' => 'Poista suosikeista',
 	'tooltip-ca-favorite' => 'Lisää tämä sivu suosikkeihisi',
+	'favoritelistall2' => 'kaikki',
 	'favoritelistedit-normal-title' => 'Muokkaa suosikkejasi',
+	'favoritelistedit-normal-submit' => 'Poista sivut',
+	'favoritelistedit-raw-titles' => 'Sivut:',
 	'favoritelistedit-raw-submit' => 'Päivitä suosikkisi',
 	'favoritelistedit-raw-done' => 'Suosikkisi on päivitetty.',
 );
@@ -604,6 +607,7 @@ Tamén pode [[Special:Favoritelist/edit|empregar o editor normal]].',
  * @author Deror avi
  * @author Nirofir
  * @author Ofekalef
+ * @author ערן
  */
 $messages['he'] = array(
 	'favorites-desc' => 'יצירת רשימת מועדפים',
@@ -616,6 +620,8 @@ $messages['he'] = array(
 	'favoritelistfor' => "(עבור '''$1''')",
 	'nofavoritelist' => 'אין פריטים ברשימת המועדפים שלך.',
 	'favoritelistanontext' => 'נא $1 על מנת לצפות או לערוך פריטים ברשימת המעקב שלך.',
+	'favoritenologin' => 'לא בחשבון',
+	'favoritenologintext' => 'עליכם [[Special:UserLogin|להיכנס לחשבון]] כדי לערוך את המועדפים.',
 	'addedfavorite' => 'הוסף לרשימת המועדפים',
 	'addedfavoritetext' => 'הדף "[[:$1]]" הוסף לרשימת ה[[Special:Favoritelist|מועדפים]] שלך.',
 	'removedfavorite' => 'הוסר מרשימת המועדפים',
@@ -1497,6 +1503,16 @@ $messages['tr'] = array(
 	'favoritelistedit-raw-done' => 'Sık kullanılanlarınız güncellendi.',
 	'favoritelisttools-view' => 'Sık Kullanılanları Görüntüle',
 	'favoritelisttools-edit' => 'Sık kullanılanları gör ve düzenle',
+);
+
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'favoritelistall2' => 'سب',
+	'favoritelistedit-normal-title' => 'پسندیدہ میں ترمیم کریں',
+	'favoritelistedit-normal-submit' => 'عنوانات ہٹا',
+	'favoritelistedit-raw-titles' => 'عنوانات:',
 );
 
 /** Vietnamese (Tiếng Việt)
