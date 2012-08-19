@@ -199,10 +199,24 @@ $messages['bg'] = array(
  * @author Y-M D
  */
 $messages['br'] = array(
+	'favoritethis' => "Ouzhpennañ d'ar sinedoù",
 	'prefs-advancedfavoritelist' => 'Dibarzhioù araokaet',
+	'favoritelist' => 'Ma sinedoù',
+	'myfavoritelist' => 'Ma sinedoù',
 	'favoritelistfor' => "(evit '''$1''')",
+	'nofavoritelist' => "N'eus pennad ebet en ho roll sinedoù.",
+	'favoritelistanontext' => "Ret eo deoc'h $1 evit gwelet pe kemmañ an elfennoù zo en ho roll sinedoù.",
 	'favoritenologin' => 'Digevreet',
+	'favoritenologintext' => "Ret eo deoc'h bezañ [[Special:UserLogin|kevreet]] a-benn gellout kemmañ ho roll sinedoù.",
+	'addedfavorite' => "Ouzhpennet d'ar pennrolloù",
+	'addedfavoritetext' => 'Ouzhpennet eo bet ar bajenn "[[:$1]]" d\'ho [[Special:Favoritelist|sinedoù]].',
+	'removedfavorite' => 'Dilamet deus ar sinedoù',
+	'removedfavoritetext' => 'Lamet eo bet ar bajenn "[[:$1]]" a-ziwar ho [[Special:Watchlist|sinedoù]].',
+	'favorite' => 'Sined',
+	'favoritethispage' => "Ouzhpennañ d'ar sinedoù",
+	'unfavorite' => 'Skarzhañ sinedoù',
 	'favoritelistall2' => 'pep tra',
+	'favoritelistedit-normal-title' => 'Aozañ ar sinedoù',
 	'favoritelistedit-normal-submit' => 'Tennañ an titloù',
 	'favoritelistedit-raw-titles' => 'Titloù :',
 );
@@ -434,18 +448,19 @@ $messages['fi'] = array(
 /** French (français)
  * @author Gomoko
  * @author Hashar
+ * @author Y-M D
  */
 $messages['fr'] = array(
 	'favorites-desc' => 'Créer une liste de favoris',
-	'favoritethis' => 'Ajouter cette page aux favorits',
+	'favoritethis' => 'Ajouter cette page aux favoris',
 	'prefs-favoritelist' => 'Favoris',
-	'prefs-favoritelist-token' => 'Jeton des favorits :',
+	'prefs-favoritelist-token' => 'Jeton des favoris :',
 	'prefs-advancedfavoritelist' => 'Options avancées',
 	'favoritelist' => 'Mes favoris',
 	'myfavoritelist' => 'Mes favoris',
 	'favoritelistfor' => '(pour « $1 »)',
 	'nofavoritelist' => "Vous n'avez aucune page en favoris.",
-	'favoritelistanontext' => 'Merci de vous $1 pour voir ou modifier des éléments de vos favoris',
+	'favoritelistanontext' => 'Merci de vous $1 pour voir ou modifier des éléments de vos favoris.',
 	'favoritenologin' => 'Non connecté',
 	'favoritenologintext' => 'Vous devez être [[Special:UserLogin|connecté]] pour pouvoir modifier vos favoris.',
 	'addedfavorite' => 'Ajouté aux favoris',
