@@ -93,13 +93,15 @@ You can also [[Special:Favoritelist/edit|use the standard editor]].',
  * @author EugeneZelenko
  * @author Hamilton Abreu
  * @author Kghbln
+ * @author Siebrand
  */
 $messages['qqq'] = array(
 	'favorites-desc' => '{{desc}}',
 	'prefs-favoritelist' => '{{Identical|Favorite}}',
 	'prefs-favoritelist-token' => "This message is basically the same as {{msg-mw|Prefs-watchlist-token}}. A token is a piece of information in this context that is used to prove one's identity electronically[http://en.wikipedia.org/wiki/Security_token]. Have a look at the Watchlist tab in [[Special:Preferences]]. There is a token there for accessing your watchlist RSS feed without having to log in (you are using your token to identify yourself).",
 	'favoritelistanontext' => '$1 is substituted by {{msg|loginreqlink}}',
-	'favorite' => '{{Identical|Favorite}}',
+	'favorite' => '{{Identical|Favorite}}Action text to mark a page as favorite.',
+	'unfavorite' => 'Action text to unmark a currently favorite page.',
 	'favoritelistall2' => '{{Identical|All}}',
 	'favoritelistedit-raw-titles' => '{{Identical|Title}}',
 );
