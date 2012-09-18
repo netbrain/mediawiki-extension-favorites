@@ -868,10 +868,42 @@ $messages['ka'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
+	'favorites-desc' => 'Määd en päsöhnlesche Leß met leevste Sigge müjjelesch.',
+	'favoritethis' => 'Heh di Sigg op di Leß met de leevste Sigge säze',
 	'prefs-favoritelist' => 'Leevßte Sigge',
 	'prefs-favoritelist-token' => 'Et Kennzeiche för Ding Lesezeiche:',
+	'prefs-advancedfavoritelist' => 'Extra Enschtällonge',
+	'favoritelist' => 'MIn leevste Sigge',
+	'myfavoritelist' => 'MIng leevste Sigge',
+	'favoritelistfor' => "(för '''$1''')",
+	'nofavoritelist' => 'Do häs kein leevste Sigge enjedraare.',
 	'favoritelistanontext' => 'Do moß $1, domet de en Ding Leß met de leevßte Sigge erenluure kanns, oder jet dran ändere.',
 	'favoritenologin' => 'Nit enjelogg',
+	'favoritenologintext' => 'Öm Ding leevste Sigge ze ändere, mööts de ald [[Special:UserLogin|enjelogg]] sin.',
+	'addedfavorite' => 'Op de Leß met de leevste Sigge jesaz',
+	'addedfavoritetext' => 'Di Sigg „[[:$1]]“ es jäz op de Leß met Dinge [[Special:Favoritelist|leevste Sigge]] jesaz..',
+	'removedfavorite' => 'Vun dä Leß met de leevste Sigge fott jenumme.',
+	'removedfavoritetext' => 'Di Sigg „[[:$1]]“ es jäz vun dä Leß met Dinge [[Special:Favoritelist|leevste Sigge]] jenumme..',
+	'favorite' => 'En de leevßte Sigge donn',
+	'favoritethispage' => 'Heh di Sigg op di Leß met de leevste Sigge säze',
+	'unfavorite' => 'Vun de leevßte Sigge fottnämme',
+	'tooltip-ca-favorite' => 'Don di Sigg en Ding leevste Sigge opnämme',
+	'tooltip-ca-unfavorite' => 'Schmiiß di Sigg uß Dinge leevste Sigge eruß',
+	'tooltip-favorite' => 'Don di Sigg en Ding leevste Sigge opnämme',
+	'favoritelistall2' => 'all',
+	'favoritelistedit-numitems' => 'Ding Leß met de leevste Sigge hät {{PLURAL:$1|eine Endraach|$1 Endrääsch|kein Endrääsch}}.',
+	'favoritelistedit-noitems' => 'Ding Leß met leevste Sigge es läddesch.',
+	'favoritelistedit-normal-title' => 'De leevste Sigge beärbeide',
+	'favoritelistedit-normal-legend' => 'Tittelle vun de leevste Sigge fott nämme',
+	'favoritelistedit-normal-explain' => 'Dat sin de Endräch in Dinge Leß met de leevste Sigge.
+Öm einzel Titelle loßß ze wääde, don Hökche en de Kässjer nevve inne maache, un dann deuß De dä Knopp „{{int:favoritelistedit-normal-submit}}“.
+Do kanns Ding Leß met de leevste Sigge och [[Special:Favoritelist/raw|en rüh beärbeide]].',
+	'favoritelistedit-normal-submit' => 'Tettelle eruß schmieße',
+	'favoritelistedit-normal-done' => '{{PLURAL:$1|Eine Sigge-Tettel es|$1 Sigge-Tettele sin|Keine Sigge-Tettel es}} us Dinge Leß met de leevßde Sigge eruß jefloore:',
+	'favoritelistedit-raw-titles' => 'Tettele:',
+	'favoritelisttools-view' => 'De leevßde Sigge aanloore',
+	'favoritelisttools-edit' => 'De leevßde Sigge aanloore un ändere',
+	'favoritelisttools-raw' => 'De leevßde Sigge ändere',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
