@@ -1635,3 +1635,57 @@ $messages['zh-hans'] = array(
 	'favoritelisttools-raw' => '编辑原始收藏夹',
 );
 
+/** Traditional Chinese (中文（繁體）‎) */
+$messages['zh-hant'] = array(
+	'favorites-desc' => '創建收藏夾列表',
+	'favoritethis' => '收藏此頁',
+	'prefs-favoritelist' => '收藏夾',
+	'prefs-favoritelist-token' => '收藏夾標記：',
+	'prefs-advancedfavoritelist' => '高級選項',
+	'favoritelist' => '我的收藏夾',
+	'myfavoritelist' => '我的收藏夾',
+	'nofavoritelist' => '您的收藏夾還沒有任何條目。',
+	'favoritelistanontext' => '請 $1 查看或編輯您的收藏夾之中的條目。',
+	'favoritenologin' => '沒有登錄',
+	'favoritenologintext' => '您必須先[[Special:UserLogin|登錄]]才能更改您的收藏夾。',
+	'addedfavorite' => '添加到收藏夾',
+	'addedfavoritetext' => '頁面"[[:$1]]"已被添加到您的[[Special:Favoritelist|收藏夾]]。',
+	'removedfavorite' => '已從收藏夾中刪除',
+	'removedfavoritetext' => '頁面"[[:$1]]"已從[[Special:Favoritelist|您的收藏夾]]中刪除。',
+	'favorite' => '收藏',
+	'favoritethispage' => '收藏此頁',
+	'unfavorite' => '不收藏',
+	'unfavoritethispage' => '停止收藏',
+	'favoritelist-options' => '收藏夾選項',
+	'favoriteing' => '收藏……',
+	'unfavoriteing' => '不收藏……',
+	'tooltip-pt-favoritelist' => '你正監視更改的頁面列表',
+	'tooltip-ca-favorite' => '將此頁添加到您的收藏夾',
+	'tooltip-ca-unfavorite' => '從收藏夾中刪除此頁',
+	'tooltip-favorite' => '將此頁添加到您的收藏夾',
+	'favoritelistall2' => '全部',
+	'favoritelistedit-numitems' => '您的收藏夾包含 {{PLURAL:$1|1 title|$1 titles}}.',
+	'favoritelistedit-noitems' => '您的收藏夾沒有包含任何標題。',
+	'favoritelistedit-normal-title' => '編輯收藏夾',
+	'favoritelistedit-normal-legend' => '從收藏夾中刪除標題',
+	'favoritelistedit-normal-explain' => '如下所示為您的收藏夾當中的標題。
+要刪除標題，選中其旁邊的複選框，然後單擊"{{int:Favoritelistedit-normal-submit}}"。
+您也可以[[Special:Favoritelist/raw|編輯原始列表]]。',
+	'favoritelistedit-normal-submit' => '刪除標題',
+	'favoritelistedit-normal-done' => '{{PLURAL:$1|1 title was|$1 titles were}} 已經從您的收藏夾中刪除：',
+	'favoritelistedit-raw-title' => '編輯原始收藏夾列表',
+	'favoritelistedit-raw-legend' => '編輯原始收藏夾列表',
+	'favoritelistedit-raw-explain' => '如下所示為您的收藏夾中的標題，並且可以通過在該列表中添加和刪除來編輯這些標題。
+每行一個標題。
+完成後，請單擊"{{int:Favoritelistedit-raw-submit}}"。
+您也可以[[Special:Favoritelist/edit|使用標準編輯器]]。',
+	'favoritelistedit-raw-titles' => '標題：',
+	'favoritelistedit-raw-submit' => '更新收藏夾',
+	'favoritelistedit-raw-done' => '已更新您的收藏夾。',
+	'favoritelistedit-raw-added' => '{{PLURAL:$1|1 title was|$1 titles were}} 已添加：',
+	'favoritelistedit-raw-removed' => '{{PLURAL:$1|1 title was|$1 titles were}} 已刪除：',
+	'favoritelisttools-view' => '查看收藏夾',
+	'favoritelisttools-edit' => '查看和編輯收藏夾',
+	'favoritelisttools-raw' => '編輯原始收藏夾',
+);
+
