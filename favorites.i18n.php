@@ -820,7 +820,7 @@ $messages['ja'] = array(
 	'favorites-desc' => 'お気に入り一覧を作成する',
 	'favoritethis' => 'このページをお気に入りに追加',
 	'prefs-favoritelist' => 'お気に入り',
-	'prefs-favoritelist-token' => 'お気に入りのトークン：',
+	'prefs-favoritelist-token' => 'お気に入りのトークン:',
 	'prefs-advancedfavoritelist' => '詳細設定',
 	'favoritelist' => 'お気に入り',
 	'myfavoritelist' => 'お気に入り',
@@ -840,12 +840,13 @@ $messages['ja'] = array(
 	'tooltip-favorite' => 'このページをお気に入りに追加',
 	'favoritelistall2' => 'すべて',
 	'favoritelistedit-normal-title' => 'お気に入りを編集',
-	'favoritelistedit-raw-title' => 'お気に入り一覧をそのまま編集',
-	'favoritelistedit-raw-legend' => 'お気に入り一覧をそのまま編集',
+	'favoritelistedit-raw-title' => 'お気に入り一覧をテキストで編集',
+	'favoritelistedit-raw-legend' => 'お気に入り一覧をテキストで編集',
 	'favoritelistedit-raw-submit' => 'お気に入りを更新',
+	'favoritelistedit-raw-done' => 'お気に入りを更新しました。',
 	'favoritelisttools-view' => 'お気に入りを表示',
 	'favoritelisttools-edit' => 'お気に入りを表示/編集',
-	'favoritelisttools-raw' => 'お気に入りをそのまま編集',
+	'favoritelisttools-raw' => 'お気に入りをテキストで編集',
 );
 
 /** Georgian (ქართული)
