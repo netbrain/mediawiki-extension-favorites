@@ -131,7 +131,7 @@ $messages['az'] = array(
 	'favoritelistall2' => 'bütün',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -290,7 +290,7 @@ Du kannst auch die [[Special:Favoritelist/edit|Standardseite]] zum Bearbeiten be
 	'favoritelisttools-raw' => 'Favoritenliste im Listenformat bearbeiten',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  * @author Umherirrender
  */
@@ -1132,7 +1132,7 @@ U kunt ook [[Special:Favoritelist/edit|het standaard bewerkingsscherm gebruiken]
 	'favoritelisttools-raw' => 'Ruwe favorietenlijst bewerken',
 );
 
-/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+/** Nederlands (informeel)‎ (Nederlands (informeel)‎)
  * @author Siebrand
  */
 $messages['nl-informal'] = array(
@@ -1580,7 +1580,7 @@ $messages['yi'] = array(
 	'favoritelistedit-raw-titles' => 'טיטלען:',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Linforest
  */
 $messages['zh-hans'] = array(
